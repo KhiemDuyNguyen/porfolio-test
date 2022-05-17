@@ -25,10 +25,6 @@
             "title": "Open Data Portal",
             "bodyText": "- Built web backend using Flask to combine, organize, categorize Axon, EDC, and IQD data for an automotive company TFS\n - Built Python scripts to preprocess raw data and populate data in PostgreSQL database\n - Built CRUD operations on multiple components with PostgreSQL database\n - Integrated project with continuous integration and continuous deployment (CI/CD) with GitHub on Elastic Beanstalk EC2 (Flask backend) and on Vercel (NodeJS frontend)\n - Applied Agile methodologies in project development, Jira with 2-week Sprint delivery to clients",
             "links": [
-                {
-                    "text": "Live",
-                    "href": "https://tfsdp.vercel.app/home/business"
-                }
             ],
             "tags" : [
                 "Python",
